@@ -5,7 +5,7 @@ description: Java Bean Cafe owners take pride in their community, striving to pr
 intro_image: "images/javabeen images/froth pour.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: false
+show_call_box: true
 ---
 
 # Java Been Cafe - Gourmet Coffee

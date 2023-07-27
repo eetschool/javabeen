@@ -20,7 +20,7 @@
   font-size: 200px;
   line-height: 220px;
   font-weight: 400;
-  color: #ffffff;
+  color: #DFD9AB;
 }
 @media (max-width: 1700px) {
   .camera_container .brand {
@@ -106,8 +106,8 @@
   z-index: 2;
 }
 .camera_loader {
-  background: #ffffff url(../images/camera-loader.gif) no-repeat center;
-  border: 1px solid #ffffff;
+  background: #DFD9AB url(../images/camera-loader.gif) no-repeat center;
+  border: 1px solid #DFD9AB;
   border-radius: 18px;
   height: 36px;
   left: 50%;

@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: 'https://eetschool.github.io/javabeen'
 permalink: pretty
 title: 'Jekyll Serif'
 
